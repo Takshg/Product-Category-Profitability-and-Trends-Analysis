@@ -1,4 +1,4 @@
-# Clothing Sales Analytics – Product & Planning Insights
+# Product-Category-Profitability-and-Trends-Analysis-for-Fashion-Retail
 
 This project analyzes a synthetic clothing retail dataset.
 
